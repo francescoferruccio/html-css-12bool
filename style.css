@@ -1,0 +1,26 @@
+/*****************************
+  debug
+******************************/
+
+[class*="col-"] {
+  background-color: pink;
+  border: 1px solid #000;
+  min-height: 200px;
+  text-align: center;
+  line-height: 198px;
+}
+
+.nested {
+  background-color: red;
+  border: 2px solid pink;
+}
+
+/*****************************
+  REGOLE GENERALI
+******************************/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
